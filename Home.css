@@ -1,0 +1,29 @@
+body{
+  background-color: orange;
+}
+body{
+background:url(https://2.bp.blogspot.com/_ckBlasgNSzg/SFX0dwRfjII/AAAAAAAAGTU/rueJEDOjknU/s400/puffer+fish.jpg);
+background-repeat: no-repeat;
+background-size: 2000;
+background-position: center;
+}
+
+
+
+h1{
+  text-decoration: underline;
+  font-size: 50px;
+  text-align: center;
+  color: #08223a;
+  
+
+} 
+h2{
+  color: red;
+  font-size: 30px;
+}
+
+h3{
+  font-size:30px;
+color: gold;
+}

@@ -1,0 +1,22 @@
+body{
+  background-color: #9900ff;
+} 
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color: yellow;
+  font-size: 40px;
+} 
+
+a{
+  font-size: 20px; 
+  color: yellow;
+}
+
+td{
+  color: yellow;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
